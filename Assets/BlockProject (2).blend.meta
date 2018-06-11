@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 73344e6c47e7bb245af11428cd4102c9
+timeCreated: 1527043415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AboveBox
+    100002: //RootNode
+    100004: Box
+    100006: Circle
+    100008: Clock
+    100010: ClockArrowHour
+    100012: ClockArrowMinute
+    100014: ClockHuita
+    100016: Cylinder
+    100018: Door
+    100020: Drum
+    100022: Glass
+    100024: Head
+    100026: Leg1
+    100028: Leg1_001
+    100030: Leg1_002
+    100032: LongBox
+    100034: Plane
+    100036: Rozetka
+    100038: Switcher
+    100040: TriangleBox
+    400000: AboveBox
+    400002: //RootNode
+    400004: Box
+    400006: Circle
+    400008: Clock
+    400010: ClockArrowHour
+    400012: ClockArrowMinute
+    400014: ClockHuita
+    400016: Cylinder
+    400018: Door
+    400020: Drum
+    400022: Glass
+    400024: Head
+    400026: Leg1
+    400028: Leg1_001
+    400030: Leg1_002
+    400032: LongBox
+    400034: Plane
+    400036: Rozetka
+    400038: Switcher
+    400040: TriangleBox
+    2100000: Gold
+    2100002: Wood
+    2100004: Clock
+    2100006: Metal
+    2100008: unnamed
+    2300000: AboveBox
+    2300002: Box
+    2300004: Circle
+    2300006: Clock
+    2300008: ClockArrowHour
+    2300010: ClockArrowMinute
+    2300012: ClockHuita
+    2300014: Cylinder
+    2300016: Door
+    2300018: Drum
+    2300020: Glass
+    2300022: Head
+    2300024: Leg1
+    2300026: Leg1_001
+    2300028: Leg1_002
+    2300030: LongBox
+    2300032: Plane
+    2300034: Rozetka
+    2300036: Switcher
+    2300038: TriangleBox
+    3300000: AboveBox
+    3300002: Box
+    3300004: Circle
+    3300006: Clock
+    3300008: ClockArrowHour
+    3300010: ClockArrowMinute
+    3300012: ClockHuita
+    3300014: Cylinder
+    3300016: Door
+    3300018: Drum
+    3300020: Glass
+    3300022: Head
+    3300024: Leg1
+    3300026: Leg1_001
+    3300028: Leg1_002
+    3300030: LongBox
+    3300032: Plane
+    3300034: Rozetka
+    3300036: Switcher
+    3300038: TriangleBox
+    4300000: Plane
+    4300002: Circle
+    4300004: Cylinder
+    4300006: Leg1_002
+    4300008: Leg1_001
+    4300010: Leg1
+    4300012: Clock
+    4300014: ClockArrowHour
+    4300016: ClockArrowMinute
+    4300018: Glass
+    4300020: ClockHuita
+    4300022: Rozetka
+    4300024: LongBox
+    4300026: Door
+    4300028: Box
+    4300030: AboveBox
+    4300032: TriangleBox
+    4300034: Head
+    4300036: Switcher
+    4300038: Drum
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
